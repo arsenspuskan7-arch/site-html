@@ -1,0 +1,307 @@
+css
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1{
+    color: #ff0000;
+}
+
+p {
+    color: #0000ff;
+    font-size: 18px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;    
+}
+
+h1 {
+    color: #1a73e8
+}
+
+h2, h3 {
+    color: #555
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+li {
+    margin-bottom:
+}
+
+img {
+    border: 2px solid #1a73e8;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    color: #1a73e8;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #555;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    border: 2px solid #1a73e8;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+}
+
+h2.project.title {
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.header {
+    background-color: #1a73e8;
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.header a:hover {
+    
+}
+
+.logo {
+    margin: 0;
+}
+
+.btn {
+    display: inline-block;
+    background: #1a73e8;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background: #155ab6;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    color: #333;
+}
+
+.logo {
+    color: rgb(184, 184, 184);
+}
+
+.about {
+    background: white;
+    padding: 25px;
+    margin: 30px 20px;
+    border-radius: 12px;
+}
+
+.about h2 {
+    margin-top: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+section {
+    margin-bottom: 40px;
+
+}
+h2 {
+    margin-top: 40px;
+}
+
+a {
+    color: #1a73e8;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #0b4da2;
+}
+
+section {
+    padding: 40px 0;
+}
+
+p {
+    line-height: 1.6;
+}
+   
+h1, h2, h3 {
+    margin-bottom: 15px;
+}
+
+.light {
+    bacground-color: #f4f4f4;
+}
+
+a { 
+    color: #1a73e8; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+    display: block;
+    margin: 20px auto;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #1a73e8;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #1558b0;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.container2 {
+   max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.card2 {
+    width: 500px; 
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin: 20px;
+}
+
+.card2:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card2 h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card2 p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.card p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;   
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+
